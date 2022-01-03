@@ -1,4 +1,8 @@
 sss
 sss
 sss
+<<<<<<< HEAD
 new text
+=======
+new issue realesed 
+>>>>>>> issue00
